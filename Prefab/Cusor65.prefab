@@ -47,6 +47,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fcc51e346d9e85e459d0dd5e40aca25e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_cursorValue:
+    m_x: -32768
+    m_y: -3000
+    m_z: 0
+  m_whatToMove: {fileID: 6220753652671772149}
+  m_useLocalPosition: 0
 --- !u!33 &417123239208267633
 MeshFilter:
   m_ObjectHideFlags: 0
