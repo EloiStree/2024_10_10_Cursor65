@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.cursor65",                              
+  "displayName": "Cursor 65m",                        
+  "version": "2024.10.11.02",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Demo of get, set, methode, in, out ref in C# with cursor in a zone of a short of distance in mm.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_10_10_Cursor65.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
