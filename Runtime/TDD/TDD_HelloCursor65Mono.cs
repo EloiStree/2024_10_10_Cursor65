@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+namespace Eloi { 
 public class TDD_HelloCursor65Mono : MonoBehaviour
 {
 
@@ -21,4 +22,6 @@ public class TDD_HelloCursor65Mono : MonoBehaviour
         m_cursorToAffect.Cursor.RemoveInMeter(m_valueToTest);
         m_cursorToAffect.RefreshIfPossible();
     }
+}
+
 }

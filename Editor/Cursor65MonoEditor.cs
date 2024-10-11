@@ -2,6 +2,7 @@ using log4net.Util;
 using UnityEditor;
 using UnityEngine;
 
+namespace Eloi { 
 [CustomEditor(typeof(Cursor65Mono))]
 public class Cursor65MonoEditor : UnityEditor.Editor
 {
@@ -87,4 +88,6 @@ public class Cursor65MonoEditor : UnityEditor.Editor
         Selection.activeGameObject = cursor.gameObject;
         Selection.activeGameObject = cursor.gameObject;
     }
+}
+
 }
