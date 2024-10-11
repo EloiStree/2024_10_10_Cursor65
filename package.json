@@ -2,7 +2,7 @@
 {                                                                                
   "name": "be.elab.cursor65",                              
   "displayName": "Cursor 65m",                        
-  "version": "2024.10.11.02",                         
+  "version": "2024.10.11",                         
   "unity": "2018.1",                             
   "unityRelease": "",                             
   "description": "Demo of get, set, methode, in, out ref in C# with cursor in a zone of a short of distance in mm.",                         
