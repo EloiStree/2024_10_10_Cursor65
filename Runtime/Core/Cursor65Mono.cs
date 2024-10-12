@@ -10,6 +10,7 @@ namespace Eloi
 /// <\summary>
 public class Cursor65Mono : BaseCursor65Mono
 {
+
     public Transform m_whatToMove;
     public bool m_useLocalPosition = true;
 
@@ -46,4 +47,8 @@ public class Cursor65Mono : BaseCursor65Mono
     }
 
 }
+
+
+
 }
+
