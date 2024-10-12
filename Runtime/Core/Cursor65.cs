@@ -907,8 +907,16 @@ sealed public class Cursor65 : I_Cursor65, IEquatable<Cursor65>
         RandomizeY();
         RandomizeZ();
     }
-    #endregion
+        #endregion
 
+
+
+        #region DESTRUCTOR
+        ~Cursor65(){
+        
+            //Just for the learning purpose
+        }
+        #endregion
 
 }
 }
